@@ -1,0 +1,39 @@
+{
+	id: "83e16d07-2f06-4f4f-97df-f013e72e5789"
+	type: "party"
+	owner: "a97e8203-ded3-4f37-b3bc-0e6e37af78bb"
+	ranks: {
+		90e0be20-ca5a-485e-b405-644d5af66e2a: "member"
+		6416d83e-911f-4279-8f30-4613b8bccf00: "member"
+		a97e8203-ded3-4f37-b3bc-0e6e37af78bb: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Lameflame"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8B59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1689444876989L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Farmapu\"}]}" }
+		{ from: "a97e8203-ded3-4f37-b3bc-0e6e37af78bb", date: 1689444885439L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Iisi\"}]}" }
+		{ from: "a97e8203-ded3-4f37-b3bc-0e6e37af78bb", date: 1689444885440L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Vinkuheina\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1689444892087L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Vinkuheina\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1689444899135L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Iisi\"}]}" }
+		{ from: "a97e8203-ded3-4f37-b3bc-0e6e37af78bb", date: 1689855515207L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"Iisi\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info Lameflame#83e16d07\"},\"text\":\"Lameflame\"}]}" }
+		{ from: "a97e8203-ded3-4f37-b3bc-0e6e37af78bb", date: 1689855518888L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Iisi\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1689855526802L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Iisi\"}]}" }
+	]
+	extra: { }
+}
